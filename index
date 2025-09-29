@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Robo Teach</title>
+  </head>
+  <body>
+    <h1
+      style="
+        text-align: center;
+        font-size: 48px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(47, 133, 220);
+      "
+    >
+      <b>Your New WebDev Teacher</b>
+    </h1>
+    <img
+      src="/images/roboTeach.jpg"
+      alt="robot teacher"
+      style="display: block; margin-left: auto; margin-right: auto; width: 50%"
+    />
+    <h2 style="text-align: center; color: rgb(62, 83, 138)">
+      Meet Robo Teach - Your AI-Powered Web Development Instructor!
+    </h2>
+    <!-- product description -->
+    <p
+      style="
+        font-size: 20px;
+        text-align: center;
+        color: rgb(105, 105, 105);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+          'Lucida Sans', Arial, sans-serif;
+        margin: 20px 100px 20px 100px;
+      "
+    >
+      Robo Teach is an innovative AI-driven platform designed to make learning
+      web development engaging and accessible for everyone. Whether you're a
+      beginner or looking to enhance your skills, Robo Teach offers personalized
+      lessons, interactive coding exercises, and real-time feedback to help you
+      master HTML, CSS, JavaScript, and more. <br /><br />
+      With Robo Teach, you can learn at your own pace, track your progress, and
+      even collaborate with fellow learners in a supportive online community.
+      <br /><br />
+      Join us today and embark on your journey to becoming a proficient web
+      developer with the guidance of Robo Teach!
+    </p>
+    <hr />
+    <h3 style="text-align: center; color: rgb(62, 83, 138); font-size: 57px">
+      Why Choose Robo Teach?
+    </h3>
+    <!--  Listing Gadget Features -->
+    <ul
+      style="
+        font-size: 20px;
+        color: rgb(105, 105, 105);
+        margin: 20px 100px 20px 120px;
+      "
+    >
+      <li>
+        Personalized Learning Paths: Tailored lessons to fit your skill level
+        and goals.
+      </li>
+      <br />
+      <li>
+        Interactive Coding Exercises: Hands-on practice to reinforce your
+        learning.
+      </li>
+      <br />
+      <li>
+        Real-Time Feedback: Instant insights to help you improve your coding
+        skills.
+      </li>
+      <br />
+      <li>
+        Community Support: Connect with other learners and share your progress.
+      </li>
+      <br />
+      <li>Flexible Scheduling: Learn anytime, anywhere at your own pace.</li>
+      <br />
+    </ul>
+    <hr />
+    <h3 style="text-align: center; color: rgb(62, 83, 138)">
+      Get Started with Robo Teach Today!
+    </h3>
+    <p
+      style="
+        font-size: 20px;
+        text-align: center;
+        color: rgb (105, 105, 105);
+        margin: 20px 100px 20px 100px;
+      "
+    >
+      Ready to take your web development skills to the next level? Sign up for
+      Robo Teach and start your learning journey today! Visit our website at
+      <a href="https://www.roboteach.com" target="_blank">https://bugdevta.github.io/Tech-Gadget-Launch-Page/</a>
+      <br /><br />
+      Keep visiting our website for the latest updates, tips, and resources!
+      <br /><br />
+    </p>
+  </body>
+</html>
