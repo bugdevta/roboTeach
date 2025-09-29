@@ -17,7 +17,7 @@
       <b>Your New WebDev Teacher</b>
     </h1>
     <img
-      src="/images/roboTeach.jpg"
+      src="./images/roboTeach.jpg"
       alt="robot teacher"
       style="display: block; margin-left: auto; margin-right: auto; width: 50%"
     />
@@ -82,6 +82,49 @@
     </ul>
     <hr />
     <h3 style="text-align: center; color: rgb(62, 83, 138)">
+      Robo Teach Versions Comparison
+    </h3>
+    <table style="margin: 0 auto; border-collapse: collapse; font-size: 18px">
+      <thead>
+        <tr style="background-color: #f0f6fc">
+          <th style="border: 1px solid #ccc; padding: 10px">Version</th>
+          <th style="border: 1px solid #ccc; padding: 10px">Features</th>
+          <th style="border: 1px solid #ccc; padding: 10px">Best For</th>
+          <th style="border: 1px solid #ccc; padding: 10px">Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 10px">Starter</td>
+          <td style="border: 1px solid #ccc; padding: 10px">
+            Basic lessons, quizzes, progress tracking
+          </td>
+          <td style="border: 1px solid #ccc; padding: 10px">Beginners</td>
+          <td style="border: 1px solid #ccc; padding: 10px">Free</td>
+        </tr>
+        <tr style="background-color: #f9fafb">
+          <td style="border: 1px solid #ccc; padding: 10px">Pro</td>
+          <td style="border: 1px solid #ccc; padding: 10px">
+            All Starter features, interactive coding, real-time feedback,
+            community access
+          </td>
+          <td style="border: 1px solid #ccc; padding: 10px">
+            Intermediate learners
+          </td>
+          <td style="border: 1px solid #ccc; padding: 10px">$9.99/month</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ccc; padding: 10px">Expert</td>
+          <td style="border: 1px solid #ccc; padding: 10px">
+            All Pro features, advanced projects, 1-on-1 mentoring, certification
+          </td>
+          <td style="border: 1px solid #ccc; padding: 10px">Advanced users</td>
+          <td style="border: 1px solid #ccc; padding: 10px">$19.99/month</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr />
+    <h3 style="text-align: center; color: rgb(62, 83, 138)">
       Get Started with Robo Teach Today!
     </h3>
     <p
@@ -94,7 +137,9 @@
     >
       Ready to take your web development skills to the next level? Sign up for
       Robo Teach and start your learning journey today! Visit our website at
-      <a href="https://www.roboteach.com" target="_blank">https://bugdevta.github.io/Tech-Gadget-Launch-Page/</a>
+      <a href="https://www.roboteach.com" target="_blank"
+        >https://bugdevta.github.io/roboTeach/</a
+      >
       <br /><br />
       Keep visiting our website for the latest updates, tips, and resources!
       <br /><br />
